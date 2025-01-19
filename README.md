@@ -1,2 +1,2 @@
-# hello-word
-This repository is for practicing the GitHub Flow
+# hello-word second
+This repository is for practicing the GitHub Flow second
